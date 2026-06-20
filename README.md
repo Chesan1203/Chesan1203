@@ -63,6 +63,6 @@ I am a data science and quantitative modeling enthusiast currently navigating th
 | :--- | :--- | :--- |
 | **Volatility-Aware Fractal-based Trading Algorithm** | Designed and backtested a quantitative strategy combining Fractal pattern recognition with VTSI across 7 NSE stocks, generating an average overall return of 154.56% and an annualized rate of 26%. | `Pandas` `yfinance` `Matplotlib` |
 | **Bankruptcy Predictor** | Engineered a corporate insolvency prediction framework evaluating 95 financial ratios across 6800+ firms, achieving a 90.9% recall rate utilizing SMOTE for class imbalances and SHAP values for interpretability. | `Python` `XGBoost` `SHAP` `scikit-learn` |
-| **Cell Membrane Segmentation** | Developed and optimized a 23-layer U-Net architecture for high-precision biological imaging segmentation, leveraging mini-batch fine-tuning and inference sharpening to achieve consistent binary masks. | `PyTorch` `Python` `OpenCV` |
+| **Cell Membrane Image Segmentation** | Developed and optimized a 23-layer U-Net architecture for high-precision biological imaging segmentation, leveraging mini-batch fine-tuning and inference sharpening to achieve consistent binary masks. | `PyTorch` `Python` `OpenCV` |
 
 ---
