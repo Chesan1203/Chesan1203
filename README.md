@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-* Pursuing a B.E. in Mathematics and Computing + M.Sc. Economics (Minor in Data Science) at Birla Institute of Technology and Science, Pilani, Hyderabad Campus[cite: 1].
-* Deeply interested in using data science, machine learning, and applied statistics to solve algorithmic challenges[cite: 1].
-* Spend my time designing predictive data pipelines and custom architectures from scratch[cite: 1].
-* Enjoy the process of turning raw datasets into automated models, particularly for complex problems in quant modeling and analysis[cite: 1].
+* Pursuing a B.E. in Mathematics and Computing + M.Sc. Economics (Minor in Data Science) at Birla Institute of Technology and Science, Pilani, Hyderabad Campus.
+* Deeply interested in using data science, machine learning, and applied statistics to solve algorithmic challenges.
+* Spend my time designing predictive data pipelines and custom architectures from scratch.
+* Enjoy the process of turning raw datasets into automated models, particularly for complex problems in quant modeling and analysis.
 
 ---
 
