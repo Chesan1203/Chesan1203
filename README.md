@@ -14,11 +14,10 @@
 
 ## 🚀 About Me
 
-I am a data science and quantitative modeling enthusiast currently navigating the intersection of Mathematics, Computing, and Economics at BITS Pilani. My core focus lies in using applied statistics to solve complex algorithmic challenges. I genuinely enjoy the end-to-end process of turning raw, chaotic datasets into highly predictive, automated architectures.
-
-*   **Quantitative Finance:** I am deeply interested in exploring financial derivatives, robust risk management, and quantitative asset valuation. 
-*   **Applied Machine Learning:** I spend a lot of my time tinkering with model interpretability, working with computer vision pipelines, and ensuring that complex architectures (like deep neural networks and gradient boosting machines) remain transparent and mathematically sound.
-*   **Beyond the Terminal:** When I'm not designing data pipelines or analyzing macroeconomic indicators, you'll probably find me cheering on the Chennai Super Kings during cricket season.
+* Pursuing a B.E. in Mathematics and Computing + M.Sc. Economics (Minor in Data Science) at Birla Institute of Technology and Science, Pilani, Hyderabad Campus[cite: 1].
+* Deeply interested in using data science, machine learning, and applied statistics to solve algorithmic challenges[cite: 1].
+* Spend my time designing predictive data pipelines and custom architectures from scratch[cite: 1].
+* Enjoy the process of turning raw datasets into automated models, particularly for complex problems in quant modeling and analysis[cite: 1].
 
 ---
 
