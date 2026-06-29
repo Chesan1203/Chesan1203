@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Pursuing a B.E. in Mathematics and Computing + M.Sc. Economics (Minor in Data Science) at Birla Institute of Technology and Science, Pilani, Hyderabad Campus.
 * Deeply interested in using data science, machine learning, and applied statistics to solve algorithmic challenges.
@@ -21,9 +21,9 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" alt="R" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML" />
 </p>
 
-### 🧠 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 | Project Name | High-Impact Description | Tech Stack |
 | :--- | :--- | :--- |
